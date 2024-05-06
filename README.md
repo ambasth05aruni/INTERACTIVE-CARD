@@ -6,3 +6,4 @@
 ![price](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/9328923e-51be-4941-add5-5f6112507b6b)
 ![cred](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/a7a2be8b-6e23-4383-bce8-d01658c5ad49)
 ![joke](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/f9d50d1c-00f4-4c29-8e64-76e73bf49c7e)
+![adblock](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/6c0eee21-8324-4ed8-9db7-a186630ef55a)
