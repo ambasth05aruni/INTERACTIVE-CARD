@@ -1,4 +1,5 @@
-![musicplayer](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/3a0c998c-de77-402a-a51b-9c184d79b9bb)
-![todo![Uploading weather.PNG…]()
-](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/f5a3a931-efd1-4886-8857-ae54e2b391f0)
 
+
+![weather](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/7e42cb2c-c39a-4826-9ebe-574440531c89)
+![todo](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/49d9a34d-46ab-4219-b21d-2b0217abe12d)
+![musicplayer](https://github.com/ambasth05aruni/INTERACTIVE-CARD/assets/101694582/b944c33e-f2d5-485f-b98f-8428444d77eb)
